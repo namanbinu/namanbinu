@@ -60,9 +60,14 @@ With a strong foundation in full-stack development, I love exploring tools, fram
 - 📜 **Kalvium PromptRepo Hackathon Certificate**  
   👉 [View Certificate](https://drive.google.com/file/d/1dQKiNRYi-OCCDtu4mdcv62hh0H_6TxMc/view?usp=drive_link)
 
+---
+<!--
+## 📊 GitHub Stats
+
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanbinu&show_icons=true&theme=radical)
 
 ---
-
+-->
 ## 😄 Fun Fact
 > I once spent three straight hours debugging a missing semicolon…  
 > only to find out it was actually a *comma* hiding in my configuration file.  
