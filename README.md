@@ -51,7 +51,7 @@ With a strong foundation in full-stack development, I love exploring tools, fram
 ---
 
 ## 📚 Currently Learning
-- **Next.js**
+- **DevOps**
 - **AWS(Amazon Web Services)**
 
 ---
